@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Welcome to BSGOU!
+## Welcome to BSGOU! 👋
 
 <!--
 
