@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to BSGOU!
+
 <!--
 
 **Here are some ideas to get you started:**
